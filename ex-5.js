@@ -1,12 +1,5 @@
 function getLetterFrequency(words) {
- 
-  for (let a of words){
-    let lowerA = a.toLowerCase();
-
-
-    console.log(words[a]+words.length
-      )
-  }
+  // Start coding here
 }
 
 const str = "Techupth";
